@@ -47,4 +47,8 @@
     "nodemon": "^1.12.1",
     "supertest": "^3.0.0"
   }
+   {
+  "schemaVersion": 2,
+  "templateId": "node/8.7.0"
+ }
 }
