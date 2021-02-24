@@ -1,5 +1,5 @@
 {
-  "name": "url-to-pdf-api-thebase",
+  "name": "url-to-pdf-api",
   "version": "1.0.0",
   "description": "Web page PDF rendering done right. Packaged to an easy API.",
   "main": "src/index.js",
